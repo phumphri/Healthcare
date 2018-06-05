@@ -1,0 +1,53 @@
+id,state,abbr,poverty,lacking_healthcare,binge_drinking
+1,Alabama,AL,27.8,12.2,1.8
+2,Alaska,AK,17.1,17.2,2.9
+4,Arizona,AZ,26.4,13.7,1.2
+5,Arkansas,AR,28.1,11.8,3.5
+6,California,CA,24.3,12.5,1.5
+8,Colorado,CO,18.5,10.4,1.1
+9,Connecticut,CT,15.4,7,1.8
+10,Delaware,DE,17.6,7.8,3.6
+11,District of Columbia,DC,23.4,5.2,4.9
+12,Florida,FL,24.8,16.6,1.5
+13,Georgia,GA,26.1,15.9,2.6
+15,Hawaii,HI,16.9,5.3,1.7
+16,Idaho,ID,24.2,13.7,2.6
+17,Illinois,IL,21,9.8,2.7
+18,Indiana,IN,22.5,12,1.3
+19,Iowa,IA,19,6.2,1.9
+20,Kansas,KS,20.4,10.3,1
+21,Kentucky,KY,27.5,8.5,1.6
+22,Louisiana,LA,28.2,14.8,2
+23,Maine,ME,21.3,10.2,1.6
+24,Maryland,MD,15.2,7.9,1.3
+25,Massachusetts,MA,16.8,3.3,1
+26,Michigan,MI,23.4,8.6,1.6
+27,Minnesota,MN,16.8,5.9,0.7
+28,Mississippi,MS,30.9,14.5,3.9
+29,Missouri,MO,22.8,11.7,2.3
+30,Montana,MT,24.1,14.3,2
+31,Nebraska,NE,19.3,9.7,0.6
+32,Nevada,NV,23.4,15.2,3.4
+33,New Hampshire,NH,13.9,9.3,2.5
+34,New Jersey,NJ,16.3,11,1.1
+35,New Mexico,NM,30.6,14.5,1.7
+36,New York,NY,22.6,8.8,1.9
+37,North Carolina,NC,25.7,13.2,1.9
+38,North Dakota,ND,16.9,7.9,2.1
+39,Ohio,OH,22.5,8.4,1.5
+40,Oklahoma,OK,24.9,15.4,1.8
+41,Oregon,OR,24.4,9.8,2.6
+42,Pennsylvania,PA,20,8.5,1.3
+44,Rhode Island,RI,20.6,7.5,2.5
+45,South Carolina,SC,26.5,13.6,1.3
+46,South Dakota,SD,20.6,9.9,1.9
+47,Tennessee,TN,26.8,12.1,3.4
+48,Texas,TX,25.3,19.1,1
+49,Utah,UT,18.1,12.6,0.9
+50,Vermont,VT,18.7,5,2.1
+51,Virginia,VA,17.6,11,1.5
+53,Washington,WA,19.6,9.3,1.4
+54,West Virginia,WV,26.7,8.7,2.2
+55,Wisconsin,WI,19.4,7.4,1.8
+56,Wyoming,WY,18.3,12,3.1
+72,Puerto Rico,PR,59.3,6.1,2.3

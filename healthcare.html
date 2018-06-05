@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="index.css" type="text/css">
+<link rel="stylesheet" href="viterbi.css" type="text/css">
+<link rel="shortcut icon" href="https://www.usc.edu/favicon.ico">
+<script type="text/javascript" src="http://d3js.org/d3.v5.min.js"></script>
+<script type="text/javascript" src="app.js"></script>
+
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
+<!-- Coding style based on http://gist.github.com/mbostock/5977197 -->
+
+<body onload="plotData('lacking_healthcare')">
+    <h1>Healthcare v. Poverty by State</h1>
+    <section></section>
+    <div>
+        <p>
+            There is a correlation between the poverty rate and healthcare.  Affluent states with low poverty rates
+            like Massachusetts have high rates of healthcare. The coverse is true.  Texas, with a high poverty rate
+            also has a high-degree of lacking healthcare. 
+        </p>
+        <p>
+            Puerto Rico is the outlier.  From "Puerto Rico Health Care Infrastructure Assessment" by University of North Carolina, January 2017:
+        </p>
+        <p>
+            In 2014, Puerto Rico had a high health insurance coverage rate (94 percent) in comparison to the US mainland (88 percent).
+            However, most of the health insurance provided in Puerto Rico was through publically funded insurance programs
+            including Puerto Rico’s Medicaid/CHIP program (39 percent), Puerto Rico’s Medicare Advantage (16 percent) and
+            Traditional Medicare programs (6 percent), and Veterans Affairs (3 percent). Only 36 percent of Puerto Ricans
+            received health insurance through a commercial insurance provider with premiums paid for by an employer or the
+            consumer (Levis-Peralta et al. 2016). This contrasted starkly with insurance coverage on the US mainland, where
+            most (59 percent) individuals receive employer-sponsored insurance or purchase their own insurance through a
+            commercial insurance provider (Perreira et al. 2016).
+        </p>
+    </div>
+
+
+</body>
+
+</html>
